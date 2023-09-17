@@ -1,1 +1,1 @@
-<h1 align = "center">Pemula</h1>
+<h1 align = "center">Java adalah koentji</h1>
