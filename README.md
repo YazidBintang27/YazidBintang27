@@ -1,1 +1,4 @@
-<h1 align = "center">Java adalah koentji</h1>
+<p align="center">
+  <img src="https://developer.android.com/images/mad/mad-header.gif" alt="Android MAD">
+</p>
+
